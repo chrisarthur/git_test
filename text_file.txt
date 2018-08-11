@@ -1,2 +1,2 @@
-This is the updated text file in side
+This is the updated text file
 -CA
